@@ -1,2 +1,2 @@
-* linguist-vendored=true
 *.py linguist-language=Python
+_/internal/* linguist-vendored=true
